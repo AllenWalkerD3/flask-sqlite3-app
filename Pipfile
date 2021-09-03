@@ -7,10 +7,8 @@ name = "pypi"
 Flask="*"
 Flask-RESTful="*"
 Flask-JWT="*"
-black = "*"
 
 [dev-packages]
-black = "*"
 
 [requires]
 python_version = "3.9"
